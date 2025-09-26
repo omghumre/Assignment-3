@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|c:\\users\\oghumre\\source\\repos\\studentmanagement\\studentmanagement\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|c:\\users\\oghumre\\source\\repos\\studentmanagement\\studentmanagement\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|c:\\users\\oghumre\\source\\repos\\studentmanagement\\studentmanagement\\views\\students\\enroll.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\students\\enroll.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|c:\\users\\oghumre\\source\\repos\\studentmanagement\\studentmanagement\\views\\students\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\students\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|c:\\users\\oghumre\\source\\repos\\studentmanagement\\studentmanagement\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|c:\\users\\oghumre\\source\\repos\\studentmanagement\\studentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|c:\\users\\oghumre\\source\\repos\\studentmanagement\\studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|c:\\users\\oghumre\\source\\repos\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|c:\\users\\oghumre\\source\\repos\\studentmanagement\\studentmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|c:\\users\\oghumre\\source\\repos\\studentmanagement\\studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|c:\\users\\oghumre\\source\\repos\\studentmanagement\\studentmanagement\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|c:\\users\\oghumre\\source\\repos\\studentmanagement\\studentmanagement\\migrations\\20250926130910_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67EE77B9-86B9-4EA4-892B-98E04EA861D4}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\migrations\\20250926130910_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T14:16:00.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T13:17:20.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:15:28.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T13:13:26.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enroll.cshtml",
+              "DocumentMoniker": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Students\\Enroll.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Students\\Enroll.cshtml",
+              "ToolTip": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Students\\Enroll.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Students\\Enroll.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T13:12:30.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Students\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Students\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Students\\Dashboard.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Students\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwDMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T13:12:27.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250926130910_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Migrations\\20250926130910_InitialCreate.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Migrations\\20250926130910_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Migrations\\20250926130910_InitialCreate.cs",
+              "RelativeToolTip": "StudentManagement\\Migrations\\20250926130910_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:09:10.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeToolTip": "StudentManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T13:07:49.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:06:53.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:06:16.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Course.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:05:24.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\oghumre\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:05:13.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
